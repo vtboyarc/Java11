@@ -5,4 +5,4 @@ public class Main {
         Player player = new Player("Adam", 30, "sword");
         System.out.println("Initial health is " + player.getHealth());
     }
-}
+} 
